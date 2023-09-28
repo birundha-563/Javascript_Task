@@ -1,0 +1,44 @@
+body{
+    /*background-image: repeating-linear-gradient(to right,rgb(152, 61, 76),gray  );*/
+    /*background-image: url("image.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*background-repeat:fixed;*/
+    margin: 0;
+    padding: 0;
+    
+    display: flex;
+    color: rgb(210, 189, 203);
+    justify-content: center;
+    min-height: 35px;  
+    background-color: rgb(170, 190, 160);
+    /*background-image:url('img.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;*/
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,111,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.box{
+    /*background-image: repeating-linear-gradient(to right,rgb(152,61,76),gray );*/
+    /*background-image: url("bgg.jpg") !important;
+    
+    /*background-repeat: fixed;*/
+    /*box-shadow: 8px 8px rgb(0, 0, 0, 0.3);*/
+    width: 400px;
+    
+    
+   
+    margin-top: 0px ;
+    background-color: rgb(133, 149, 164);
+   /* background-image:url('img.jpg');*/
+}
+
+.input{
+    box-shadow: 5px 5px rgb(0, 0, 0, 0.3);
+}
+.button{
+    box-shadow: 5px 5px rgb(0, 0, 0, 0.3);
+}
